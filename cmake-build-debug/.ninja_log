@@ -1,0 +1,21 @@
+# ninja log v5
+5	97	7328011530977002	CMakeFiles/LifeGame.dir/main.cpp.obj	6c8c27265e96481
+18	1416	7328011544165449	CMakeFiles/LifeGame.dir/Game.cpp.obj	87bc206ada652d1d
+488	784	7337695635596523	LifeGame.exe	ec3bfd1bac07f3b0
+3	488	7337695632666720	CMakeFiles/LifeGame.dir/Engine.cpp.obj	98c1010ff33f4aa7
+0	418	7346121248202541	build.ninja	8a4677059a2ac6f9
+13	141	7346124009964499	CMakeFiles/LifeGame.dir/main.cpp.obj	6c8c27265e96481
+9	576	7346124014315188	CMakeFiles/LifeGame.dir/Engine.cpp.obj	98c1010ff33f4aa7
+4	1246	7346124021005964	CMakeFiles/LifeGame.dir/Game.cpp.obj	87bc206ada652d1d
+16	1535	7346124023896729	CMakeFiles/LifeGame.dir/gameapi.cpp.obj	3284c088e973931e
+1536	1808	7346124026561245	LifeGame.exe	dfb5e8d67f6d26dd
+5	1469	7346125792250230	CMakeFiles/LifeGame.dir/main.cpp.obj	6c8c27265e96481
+1470	1564	7346125793139638	LifeGame.exe	dfb5e8d67f6d26dd
+2	1471	7346127671668119	CMakeFiles/LifeGame.dir/main.cpp.obj	6c8c27265e96481
+1471	1567	7346127672583095	LifeGame.exe	dfb5e8d67f6d26dd
+3	1411	7346128063234666	CMakeFiles/LifeGame.dir/main.cpp.obj	6c8c27265e96481
+1411	1506	7346128064149669	LifeGame.exe	dfb5e8d67f6d26dd
+3	1163	7346130240966652	CMakeFiles/LifeGame.dir/Game.cpp.obj	87bc206ada652d1d
+13	1499	7346130244309177	CMakeFiles/LifeGame.dir/gameapi.cpp.obj	3284c088e973931e
+8	1528	7346130244617521	CMakeFiles/LifeGame.dir/main.cpp.obj	6c8c27265e96481
+1528	1637	7346130245619846	LifeGame.exe	dfb5e8d67f6d26dd
